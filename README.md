@@ -14,10 +14,6 @@
 ⚡ Fun fact: ...
 -->
 
-
-<br />
-<br />
-
 ### Skils:
 
 [<img align="left" alt="html5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
