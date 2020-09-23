@@ -1,4 +1,5 @@
-### Hi there, I'm Sérgio Ramos and I'm a Fullstack Developer 👋
+### Hi there, I'm Sérgio Ramos 👋<br />
+## I'm Fullstack Developer
 
 <!--
 **sfilhu/sfilhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
