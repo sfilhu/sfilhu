@@ -22,3 +22,10 @@
 [<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arnabdey0503 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://arnabdey.co/career-portfolio.html
+[twitter]: https://twitter.com/arnabdey0503
+[youtube]: https://www.youtube.com/channel/UCKVIKSWDcM2Qk6ykz3sCLbA
+[instagram]: https://instagram.com/arnabdey0503
+[linkedin]: https://www.linkedin.com/in/arnabdey0503/
+[github]:  https://github.com/arnabdeypolimi
