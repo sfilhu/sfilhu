@@ -3,20 +3,16 @@
 
 <!--
 **sfilhu/sfilhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <br />
-🔭 I’m currently working on ...<br />
-🌱 I’m currently learning ...<br />
+🔭 I’m currently working on <br />
+🌱 I’m currently learning mobile development<br />
 👯 I’m looking to collaborate on ...<br />
 🤔 I’m looking for help with ...<br />
-💬 Ask me about ...<br />
+💬 Ask me about sfilhu@gmail.com<br />
 📫 How to reach me: ...<br />
 😄 Pronouns: ...<br />
 ⚡ Fun fact: ...
-
-
-<br />
-<br />
+-->
 
 
 <br />
