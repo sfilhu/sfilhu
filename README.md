@@ -16,13 +16,7 @@
 -->
 <br />
 <br />
-### Connect with me:
 
-[<img align="left" alt="arnabdey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="arnabdey0503 | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arnabdey0503 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -41,6 +35,18 @@
 [<img align="left" alt="electron" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"/>][github]
 [<img align="left" alt="heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"/>][github]
 [<img align="left" alt="express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"/>][github]
+
+<br />
+<br />
+
+
+## Connect with me:
+
+[<img align="left" alt="arnabdey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="arnabdey0503 | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="arnabdey0503 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [website]: https://arnabdey.co/career-portfolio.html
