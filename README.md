@@ -31,10 +31,10 @@
 
 [<img align="left" alt="html5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" alt="css3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>][github]
-[<img align="left" alt="sass" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="react" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>][github]
 [<img align="left" alt="vue" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>][github]
+[<img align="left" alt="sass" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>][github]
 [<img align="left" alt="node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>][github]
 [<img align="left" alt="postgres" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>][github]
 
